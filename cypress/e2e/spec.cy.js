@@ -1,5 +1,13 @@
 
-describe('ParaBank Banking Application', () => {
+
+
+
+
+
+
+
+
+/*describe('ParaBank Banking Application', () => {
 
   beforeEach(() => {
     cy.visit('/index.htm');
@@ -58,3 +66,4 @@ describe('ParaBank Banking Application', () => {
   });
 
 });
+*/

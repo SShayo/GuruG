@@ -7,6 +7,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-     baseUrl: 'https://parabank.parasoft.com/parabank',
+     baseUrl: 'https://the-internet.herokuapp.com/login?utm_source=chatgpt.com',
   },
 });
